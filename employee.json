@@ -1,6 +1,9 @@
-
 {
-  id:'0988',
-  name:'rani'
+  "employees": [
+    { "id": 1, "name": "Akila", "status": "active" },
+    { "id": 2, "name": "Mala", "status": "Inactive" },
+    { "id": 3, "name": "Peter", "status": "active" },
+    { "id": 4, "name": "Johm", "status": "Inactive" }
+  ]
 }
 
